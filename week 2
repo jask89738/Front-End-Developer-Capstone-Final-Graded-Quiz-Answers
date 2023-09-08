@@ -1,0 +1,645 @@
+Question 1)
+Which of the following are HTML Inline Elements? Select all that apply.
+
+<input>
+<p>
+<div>
+<span>
+Question 2)
+Which of the following array methods can you use to add a new item to the end of an array?
+
+pop()
+arrayBuilder()
+push()
+Question 3)
+True or False: When creating a new branch using the git branch command, that branch is only available to other developers once the branch is pushed to the remote repository.
+
+True
+False
+Question 4)
+Which of the following elements can you find in a user story for a website? Select all that apply.
+
+A user’s personal information.
+A feature of the website written from the perspective of the user.
+A user’s need or goal.
+A detailed list of requirements.
+Question 5)
+What is the purpose of Semantic HTML?
+
+Semantic HTML is a way to describe the meaning of your web page through specific tags.
+Semantic HTML is used to describe information about the webpage.
+Semantic HTML creates a generic container-like structure to group related content together.
+Question 6)
+What is the main function of the semantic HTML tags <article> and <section>?
+
+You can use <article> to specify the main content of a section or the web page. You use <section> for a standalone section of the document, often within the body and article elements.
+You can use <article> for an independent, self-contained block of content and <section> for a standalone section of the document.
+You can use <article> for an independent, self-contained block of content such as a blog post or product. You use <section> to specify the main content of a section or the web page.
+Question 7)
+What does the git clone command do?
+
+It creates a local copy of a remote repository.
+It creates a new git repository.
+It fetches the changes from the remote repository.
+Question 8)
+True or False: Open graph tags are required to create a valid HTML document.
+
+True
+False
+Question 9)
+Fill in the blank: React has at least one component known as the __________ component.
+
+Root
+Top
+Origin
+Question 10)
+Which of the following hooks should be used to fetch data from an API in a React app?
+
+useEffect
+useState
+useReducer
+Question 11)
+Fill in the blank: When rendering a list in React, each item in the list must have a ______.
+
+unique value
+unique data
+unique key
+Question 12)
+Which of the following options will create a 4-column grid using CSS grid?
+
+display: grid; grid-template-columns: repeat(4,200px);
+display: flex; grid-template-columns: repeat(4,200px);
+display: block; grid-template-columns: repeat(4,200px);
+display: inline-block; grid-template-columns: repeat(4,200px);
+Question 13)
+At which stage of the UX design process do you put yourself in the user’s situation to get a better understanding of their requirements?
+
+Prototype
+Define the problem
+Empathize
+Ideation
+Question 14)
+Which one of the following is the most common way in which a JavaScript object is instantiated?
+
+var anObject = {};
+var anObject = [];
+var anObject = ‘’;
+var anObject = new Object[];
+Question 15)
+What will be the output of the following code?
+
+var dog = {};
+dog.breed = 'labrador';
+dog.ageInDogYears = 14;
+dog.fetch = function() { console.log('The dog fetched the stick!') }
+dog.fetch();
+undefined
+Nothing because an object cannot have methods.
+‘The dog fetched the stick!’
+Nothing because the object method is declared incorrectly.
+Question 16)
+What is the purpose of the typeof() function?
+
+To check the type of a variable.
+To cast a variable to a different type.
+To return true if a variable matches the data type of the second argument passed into it.
+Question 17)
+In programming, which are the two predominant programming paradigms?
+
+Object-oriented and Imperative programming
+Declarative and Functional programming
+Functional and Object-oriented programming
+Functional and Imperative programming
+Question 18)
+What will be the output of the following code?
+
+console.log(bat);
+const bat = 'Not a vampire';
+null
+undefined
+‘Not a vampire’
+Uncaught ReferenceError
+Question 19)
+What will be the output of the following code?
+
+var superHeroes = [ 'Iron Man' ];
+
+for (prop of superHeroes) {
+console.log(prop);
+}
+prop
+object
+The code will not run because the for of loop syntax is incorrect.
+‘Iron Man’
+Question 20)
+When implementing a form in React, which type of components are recommended to be used?
+
+Docile component
+Controlled component
+Uncontrolled component
+Volatile component
+Question 21)
+What is the default behavior of React rendering?
+
+React will recursively re-render all of a component’s children when the component renders.
+React only renders child components associated with the parent component.
+React will recursively re-render all of a component’s children when the component renders depending on props and context.
+React will only render the component and not any children associated with it.
+Question 22)
+In React, when would you want to write your own custom hook instead of using one already built-in?
+
+You should not write your own custom hooks.
+When you face errors using the built-in hooks.
+To rename one of the built-in hooks.
+When you want to reuse a piece of functionality.
+Question 23)
+What does the justify alignment property do in CSS?
+
+Puts even spacing between each character on every line.
+Ensures that all text is aligned in the center.
+Spreads the text out and ensures every line is the same width.
+Spreads the text out so that each line will form what looks like stairs.
+Question 24)
+Which one of the following is true about block elements?
+
+They only occupy the height of their content.
+They only occupy the width and height of their content.
+They occupy the full width and height of the parent element.
+They do not appear on a new line.
+Question 25)
+Which one of the following protocols allows you to login and interact with computers remotely?
+
+File Transfer Protocol (FTP)
+Post Office Protocol (POP)
+Secure Shell Protocol (SSH)
+Simple Mail Transfer Protocol (SMTP)
+Question 26)
+In relation to UX design, what is the purpose of a mood board?
+
+Mood boards are used for designing the functional aspects of a product.
+A board where tasks needed to be completed are put.
+They are the centralized asset source which brings together ideas from stakeholders, users, and the team.
+It is a place where team members can anonymously place any grievances they have.
+Question 27)
+Fill in the blank: In design systems, ______ are the building instructions that allow you to use components logically and consistently across all products.
+
+patterns
+principles
+assets
+components
+Question 28)
+How can a JavaScript expression be passed as a children prop?
+
+Using []
+Using an anonymous function.
+Using {}
+A JavaScript expression cannot be passed as a children prop.
+Question 29)
+What happens if a script fails during the Continuous Integration (CI) process?
+
+The process continues until a developer intervenes.
+A report is sent to developers and the process stops.
+The failing script is skipped and the process continues.
+The process will retry a finite amount of times until it crashes.
+Question 30)
+Which one of the following describes a valid use of a hook?
+
+Using a hook inside a conditional statement.
+Using a hook in a JavaScript function.
+Using a conditional statement inside a hook.
+Using a state hook inside a conditional statement.
+ 
+
+Question 31)
+Which of the following is not part of the CSS box model?
+
+Margin
+Border
+The outline property
+Padding
+Question 32)
+Which Git command is used to upload the latest changes to a remote repository?
+
+git commit
+git pull
+git push
+git clone
+Question 33)
+Which of the following are rules from Shneiderman’s 8 Golden Rules of UI Design? Select all that apply.
+
+Help and documentation.
+Strive for consistency.
+Offer simple error handling.
+Offer informative feedback.
+Question 34)
+When does wireframing happen in the project lifecycle?
+
+In the middle of the project lifecycle.
+Early in the project lifecycle.
+Towards the end of the project lifecycle.
+Question 35)
+Which command is used to create a local copy of a remote Git repository?
+
+git init
+git pull
+git fetch
+git clone
+Question 36)
+In the following component, which element is the top-level element?
+
+function List(props) {
+return ( <> <ul> <li>{props.first}</li> </ul> </> )
+}
+
+<>
+<ul>
+<li>
+Question 37)
+Which of the following hooks is most appropriate for tracking complex application state in React?
+
+useState
+useEffect
+useReducer
+Question 38)
+True or False: CSS grids are created using the grid-gap property.
+
+True
+False
+Question 39)
+At which stage of the UX design process is a simulation of the final product created?
+
+Prototype
+Empathize
+Ideation
+Test and Build
+Question 40)
+What will be the output of the following code?
+
+var shoe = {};
+shoe.type = 'sneaker';
+shoe.brand = 'Nike';
+shoe.info = function () { console.log('Nike sneaker') }
+console.log(shoe.info)
+[ Function (info) ]
+‘Nike sneaker’
+[ Function (anonymous) ]
+undefined
+ 
+
+Question 41)
+What will be the output of the following code?
+
+var dataType = typeof(100);
+console.log(dataType);
+
+undefined
+object
+number
+string
+Question 42)
+In programming, which paradigm groups data and functionality as properties and methods?
+
+Object-oriented programming
+Declarative programming
+Imperative programming
+Functional programming
+Question 43)
+What will be the output of the following code?
+
+console.log(rabbit);
+let rabbit = ‘Thumper’;
+
+‘Thumper’
+null
+Uncaught ReferenceError
+undefined
+Question 44)
+What is wrong with the following code?
+
+var farm = {
+animals: 15,
+farmers: 3
+}
+
+for (prop of farm) {
+console.log(prop);
+}
+
+The code is correct.
+The forEach() method should be used on the object.
+The object has been instantiated with {} instead of [].
+An object is not iterable.
+Question 45)
+Which type of component takes in its current value as a prop and a callback to change it?
+
+Uncontrolled component
+Formatted component
+HTML component
+Controlled component
+Question 46)
+What is the following piece of code doing?
+
+import { useEffect } from “react”;
+
+function usePrintNumber(num) {
+useEffect(() => {
+console.log(num);
+}, [num]);
+}
+
+export default usePrintNumber;
+
+It is creating a custom hook called usePrintNumber.
+It is a function for returning the argument passed in as an array.
+It is creating a component that prints the number given.
+Question 47)
+Using CSS, which one of the following is the correct way to place some text in the center of the enclosing HTML element?
+
+text-align: center;
+text: middle;
+alignment: center;
+text: center;
+Question 48)
+Which one of the following internet protocols lets your computer know which IP to communicate with when visiting websites?
+
+Simple Mail Transfer Protocol (SMTP)
+Post Office Protocol (POP)
+File Transfer Protocol (FTP)
+Domain Name System Protocol (DNS)
+Question 49)
+In React, hooks should follow certain rules so as to not make your code invalid. Which one of the following is one such rule that should be followed?
+
+Make multiple hook calls in different sequences.
+Only call hooks at the top level of a React component function.
+Hooks should not be called from a React component function.
+Cannot call multiple state or effect hooks inside a component.
+Question 50)
+What is the first parameter you pass to the addEventListener() method?
+
+A function that will handle the event.
+An optional Boolean value to use either event bubbling or event capturing.
+The target of the event.
+A string describing the type of event, such as click.
+Question 51)
+Which of these options are considered best practices for form design? Select all that apply.
+
+Make use of inline form field validation.
+Align text to the center.
+Use one column.
+Always request a contact phone number.
+Question 52)
+What is the purpose of the og:type Open Graph tag?
+
+To specify the type of the page, such as website, article or video.
+To specify the language of the page.
+To specify the color scheme of the page.
+To specify the layout of the page.
+Question 53)
+In React, which direction does data flow between parent and child components?
+
+Data does not flow between parent and child components
+Two-way
+One-way
+Question 54)
+What is wrong with the following React code?
+
+import React from ‘react’;
+function MyList() {
+const list = [‘item1’, ‘item2’, ‘item3’];
+return ( <ul> {list.map((item) => ( <li>{item}</li> ))} </ul> );
+}
+
+Not quite! Please review the reading
+Recap: React basics.
+There is nothing wrong with this code.
+The list elements do not have unique keys.
+The list is not being sorted correctly.
+Question 55)
+In programming, which paradigm separates data and functionality?
+
+Declarative programming
+Imperative programming
+Functional programming
+Object-oriented programming
+Question 56)
+What is wrong with the following code?
+
+var house = {
+doors: 8,
+garage: ‘Yes’
+}
+console.log(Object.keys(house));
+
+{ ‘doors’, ‘garage’ }
+undefined
+‘doors’
+‘garage’
+[ ‘doors’, ‘garage’ ]
+Question 57)
+In React, if you have complex top level components, this can cause a hit to performance when re-rendering. What does React provide to mitigate this?
+
+React.memory()
+React.component()
+React.memo()
+React.cache()
+Question 58)
+To align a child element in CSS to the center of its parent element, which margin value should be used?
+
+center
+fill
+even
+auto
+Question 59)
+Fill in the blank: A block level element will occupy the full ______ width of the parent element, and the ______ height of its content.
+
+horizontal, vertical
+diagonal, horizontal
+vertical, horizontal
+diagonal, vertical
+Question 60)
+One of the design element principles is balance, what is this principle concerned with?
+
+Adding depth and effects to a design.
+Ensuring no element empowers another.
+Using color to create moods and atmosphere.
+The space between elements that forms its own shape.
+ 
+
+Question 61)
+Fill in the blank: In design systems, ______ contain technical and functional documentation and patterns provide recommendations on how to use it.
+
+components
+blocks
+principles
+assets
+Question 62)
+What type of selector is used in the following CSS rule?
+
+.footer { width: 100%; }
+
+The element selector
+The id selector
+The class selector
+Question 63)
+When designing a website using CSS grid, what code can you use to design three columns where the second column uses twice the space as the other two?
+
+grid-template-columns:1fr2fr1fr;
+grid-template-rows: 1fr 2fr 1fr;
+grid-auto-columns: auto;
+grid-column-gap: 2fr;
+Question 64)
+What is the very first step when creating a wireframe in Figma?
+
+Create a frame
+Create a grid
+Gather requirements
+Question 65)
+Which of the following hooks can be used to track state in a React app? Select all that apply.
+
+useReducer
+useEffect
+useState
+Question 66)
+What is wrong with the following React code?
+
+import React from 'react'; 
+function MyList() { 
+const list = ['item1', 'item2', 'item3']; 
+return ( <ul> {list.map((item) => ( <li>{item}</li> ))} </ul> ); 
+}
+Not quite! Please review the reading Recap: React basics
+The list is not being sorted correctly.
+There is nothing wrong with this code.
+The list elements do not have unique keys.
+Question 67)
+Which one of the following is a valid object in JavaScript?
+
+var anObject = [ ‘car’: ‘ford’ ];
+var anObject = ‘car’: ‘ford’;
+var anObject = new Object[ ‘car’ : ‘ford’ ];
+var anObject = { ‘car’: ‘ford’ };
+Question 68)
+What is wrong with the following code?
+
+var bee = {};
+bee.rank = ‘worker’;
+bee.ageInDays = 10;
+bee.buzz = { console.log(‘buzz’) }
+bee.buzz();
+
+The function has not been declared with function().
+There is a missing semicolon in the bee.buzz declaration.
+The object properties cannot be defined using dot notation.
+The ageInDays property should be a string.
+Question 69)
+Which type of component lets the DOM maintain its internal state?
+
+HTML component
+Formatted component
+Controlled component
+Uncontrolled component
+Question 70)
+What will be rendered by the child element in the following code snippet?
+
+<div>{true}</div>
+
+true
+undefined
+{}
+nothing
+Question 71)
+Which one of the following is a benefit of Continuous Integration (CI)?
+
+Assists with writing code.
+Uploads code to a repository like GitHub.
+Automating integration steps to avoid repetition.
+Condenses code to be more readable.
+Question 72)
+Which of the following options can you use to clone a GitHub repository? Select two that apply.
+
+You can download a GitHub repository as a PDF file.
+You can clone a GitHub repository with the GitHub Desktop app.
+You can use the git clone command in the Git terminal.
+You can clone a GitHub repository with GitHub’s web interface.
+Question 73)
+True or False: The git fetch command creates a local copy from a remote git repository.
+
+True
+False
+Question 74)
+At which stage of the UX design process are ideas and solutions generated for the identified problem?
+
+Empathize
+Prototype
+Ideation
+Test and Build
+Question 75)
+What will be the output of the following code?
+
+console.log(cat);
+var cat = 'Tabby cat';
+null
+undefined
+‘Tabby cat’
+Uncaught TypeError
+Question 76)
+One of the design element principles is direction, what is this principle concerned with?
+
+Using color to create moods and atmosphere.
+Guiding the users gaze to different parts of the page.
+The space between elements that forms its own shape.
+Adding depth and effects to a design.
+Question 77)
+Fill in the blank: A ______ contains both tangible and intangible elements like patterns, components, guidelines, and other designer and developer tools.
+
+design board
+design system
+development system
+marketing system
+Question 78)
+Which one of the following describes an invalid use of a hook?
+
+Using a hook from inside a React component function.
+Calling multiple state or effect hooks.
+Using a hook from the top level of a React component function.
+Using a hook inside a conditional statement.
+Question 79)
+Which of the following is not a valid Open Graph meta tag?
+
+<meta property=”og:image” content=”image.jpg”>
+<meta property=”og:description” content=”Page Description”>
+<meta property=”og:url” content=”https://example.com/page”>
+<meta property=”og:keywords” content=”keyword1, keyword2″>
+<meta property=”og:title” content=”Page Title”>
+Question 80)
+Which of the following statements about CSS grids are true? Select all that apply.
+
+CSS grids are created using the display property with a value of grid.
+CSS grids are created using the float property.
+CSS grids can be used to create inline-block elements.
+CSS grids can be used to create flexible layouts.
+Question 81)
+What will be the output of the following code?
+
+var dataType = typeof(‘what is my type?’);
+console.log(dataType);
+
+Answers
+undefined
+number
+object
+string
+Question 82)
+Which one of the following is true about naming custom hooks?
+
+It must at most be 12 characters long.
+It must have a name that begins with use.
+It must have a name that begins with an underscore.
+It must have a name that ends with Log.
+Question 83)
+Which one of the following internet protocols allows you to securely list, send, receive and delete files on a server?
+
+Post Office Protocol (POP)
+Simple Mail Transfer Protocol (SMTP)
+File Transfer Protocol (FTP)
+SSH File Transfer Protocol (SFTP)
